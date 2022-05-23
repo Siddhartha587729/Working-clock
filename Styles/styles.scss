@@ -39,14 +39,9 @@ body{
 }
 
 #clock{
-    display: flex;
-    //position: fixed;
-    height: 20px;
-    width: 100px;
-    text-align: center;
+    margin: auto;
     background-color:#E4E6EB;
     padding: 4px;
-    margin: 4px;
     border-radius: 4px;
 }
 .box{
